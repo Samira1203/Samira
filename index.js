@@ -1,6 +1,6 @@
 const yes8tn=document.querySelector("#yes8tn");
 
-yes8tn.addEventListener("click",function(){alert("Sabia que yo mandaba :)")});
+yes8tn.addEventListener("click",function(){alert("Mi princesa Samira siempre ganara punto final la amo :)"
 
 const no8tn =document.querySelector("#no8tn");
 
